@@ -1,0 +1,206 @@
+
+.main-Header{
+    width: 1278px;
+    display: flex;
+    background-color: rgba(253,222,36,255);
+    position: fixed;
+    height: 106px;
+    align-items: center;
+
+}
+.main-Header-Img>img { 
+    filter: drop-shadow(10px -1px 2px white);
+}
+.main_Anger{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.anger-1{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family: sans-serif;  
+}
+.anger-1:hover{
+    transition:0.5;
+    color: rgb(55, 57, 53) !important;
+    filter: drop-shadow(6px -1px 1px white);
+}
+.main_Contact>button{
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 10px 23px;
+    font-weight: 900;
+    font-family: sans-serif;
+    border-radius: 22px;
+    box-shadow: 0px 0px 16px 3px white;
+}
+.main_Contact{
+    justify-content: end;
+    display: flex   ;
+}
+
+
+.main_body_img{
+    border-bottom-right-radius: 37%;
+    border-bottom-left-radius: 28%;
+}
+
+.main_our_text{
+    text-align: center !important;
+    padding: 3% 0px 3% 0px !important;
+}
+.main_our_body{
+background-color: rgba(253, 222, 36, 255);
+width: 1263px !important;
+overflow-x: hidden;
+margin-bottom: 2%;
+border-bottom-right-radius: 37%;
+border-bottom-left-radius: 28%;
+}
+.main-div2-text-input {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    align-items: center;
+}
+.main-text-h1-savor{
+    font-size: 39px;
+    font-weight: 300;
+}
+#myVideo{
+    cursor: pointer !important;
+}
+.reel-video{
+    
+  width: 1263px;
+  overflow-x: hidden;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ 
+}
+.main-video-text{
+    width: 500px;
+    position: static;
+    margin: -51% 0px 20% 5%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-family: cursive;
+}
+
+.main-promise{
+background-color: rgba(253, 222, 36, 255);
+display: flex;
+}
+.main-promise-one{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 69px;
+    padding: 4% 0px 0px 2%;
+    font-family: cursive;
+}
+.mai-map{
+    display: flex;
+}
+.main-map-two{
+    background-color: #f8f8f4;
+    width: 664px;
+    display: flex;
+    flex-direction: column;
+    gap: 147px;
+    padding: 1% 0px 0px 2%;
+    font-family: cursive;
+}
+.patta-img{
+    width: 1263px;
+    margin: -1% 0px 0px 0px;
+    height: 600px;
+    border-top-left-radius: 46%;
+}
+.main-patta-text{
+    color: white;
+    font-family: cursive;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: -28% 0px 0px 0%;
+    text-align: center;
+}
+.main_person{
+    background-color: rgba(255,254,231,255);
+    margin: 12% 0px 0px 0px;
+    display: flex;
+    gap: 10px;
+}
+.main_per_text{
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+    margin-top: 5%;
+    font-family: cursive;
+}
+.main_per_text>button{
+    width: 154px;
+    background-color: black;
+    color: white;
+    border: navajowhite;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.cert_main{
+    background-color: rgba(255,254,231,255);
+    padding: 2% 0px 0px 0px;
+    text-align: center;
+    gap: 18px;
+    display: grid;
+}
+.img_cer{
+    display: flex;
+    gap: 78px;
+    justify-content: center;
+}
+.main_fopter{
+    display: flex;
+    background-color: rgba(255,254,231,255);
+    gap: 7%;
+    padding: 5% 0px 30px 0px;
+}
+.mai_fo_One{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    width: 504px;
+    text-align: center;
+    font-family: cursive;   
+    margin: 0px 0px 0px 13%;
+}
+.con-main-fo{
+    display: flex;
+    width: 294px;
+    gap: 0px;
+}
+.mai_fo_Two{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(253,222,36,255);
+    width: 377px;
+    font-family: cursive;
+    gap: 48px;
+    padding: 31px;
+}
+.mai_fo_Two>input{
+    border: none;
+    background: rgba(253,222,36,255);
+    border-bottom: 1px solid;
+    
+}
+
+
+
